@@ -1,7 +1,7 @@
 # Create React, Vite and ESLint App
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="200" align="center"><img src="https://github.com/Tribalash/create-react-vite/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="200" align="center"><img src="https://github.com/Tribalash/create-react-vite/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/Tribalash/create-react-vite/blob/main/src/assets/eslint.svg" width="200" align="center">
+<img src="https://github.com/CameronMontgomery/create-react-vite/blob/main/src/assets/react.svg" width="200" align="center"><img src="https://github.com/CameronMontgomery/create-react-vite/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/CameronMontgomery/create-react-vite/blob/main/src/assets/vite.svg" width="200" align="center"><img src="https://github.com/CameronMontgomery/create-react-vite/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/CameronMontgomery/create-react-vite/blob/main/src/assets/eslint.svg" width="200" align="center">
 </p>
 
 <div align="right">
@@ -14,7 +14,7 @@
 
 While Vite already offers a very easy setup when compared to something like Webpack there is some configuration needed especially if you would like to use ESLint. This project aims to provide a fast and easy way to get going on your next project. The project uses a un-opinionated ESLint setting to aid development and Prettier for formatting.
 
-If you are looking for a template that includes TailwindCSS and its Prettier plugin, you can find that [here](https://github.com/Tribalash/create-react-vite-tailwind).
+If you are looking for a template that includes TailwindCSS and its Prettier plugin, you can find that [here](https://github.com/CameronMontgomery/create-react-vite-tailwind).
 
 ## Setup & Configuration
 
