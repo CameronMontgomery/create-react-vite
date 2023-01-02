@@ -14,9 +14,11 @@
 
 While Vite already offers a very easy setup when compared to something like Webpack there is some configuration needed especially if you would like to use ESLint. This project aims to provide a fast and easy way to get going on your next project. The project uses a un-opinionated ESLint setting to aid development and Prettier for formatting.
 
-If you are looking for a template that includes TailwindCSS and its Prettier plugin, I have you covered right [here](https://github.com/Tribalash/create-react-vite-tailwind).
+If you are looking for a template that includes TailwindCSS and its Prettier plugin, you can find that [here](https://github.com/Tribalash/create-react-vite-tailwind).
 
 ## Setup & Configuration
+
+After creating a project with template make sure to run ```npm install``` 
 
 No configuration or setup is neccisary, however, if you would like to change the default Prettier formatting rules you can in .prettierrc.
 
