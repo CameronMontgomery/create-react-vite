@@ -1,7 +1,7 @@
 {
   "name": "react-vite-setup",
   "version": "1.0.0",
-  "description": "Provides all the necessary setup files for a React and Vite application. Includes un-opinionated ESLint configuration that supports React Hooks and Prettier",
+  "description": "Provides all the necessary setup files for a React and Vite application. Includes un-opinionated ESLint configuration that supporting React Hooks and Prettier",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,11 @@
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "template",
+    "vite",
+    "react"
+  ],
   "author": "JCMontgomery (Tribalash)",
   "license": "ISC",
   "devDependencies": {
